@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Detta är ett test och jag ska jobba med detta när jag är på jobbet");
+            Console.WriteLine("Nu testar jag att skriva från nätet för att se om det har skett en förändring");
             Console.ReadKey();
         }
     }
